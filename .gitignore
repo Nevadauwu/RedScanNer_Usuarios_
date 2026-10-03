@@ -1,0 +1,9 @@
+# Reportes generados por la herramienta
+reporte_soc_*.json
+
+# Archivos de entorno virtual o Python
+__pycache__/
+*.pyc
+.env
+.venv/
+vscode/
